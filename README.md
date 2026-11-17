@@ -1,3 +1,5 @@
+### ⚠️ This repo is a fork of a different project - this repository has been adjusted to work with older versions of Fl Studio - which run on MacOS via Rosetta. It's a niche issue, read the README.md to learn the fix.
+
 # FL Studio MCP Server
 
 **Control FL Studio with plain language.** An MCP (Model Context Protocol) server that lets AI assistants drive FL Studio through MIDI communication and Piano Roll scripts — compose melodies, adjust mixes, and automate plugins without touching the mouse.
